@@ -1,5 +1,12 @@
+<h1 align="center">Hi 👋, I'm Ameer khan B</h1>
 # 💫 About Me:
-🎓 Student<br>🏠 Tirunelveli<br>💻 Aspire to be a Software Engineer <br>📩 Mail me @ ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal @ itisameerkhan@gmail.com <br><br><br><br><br>
+<ul>
+  <li>🎓 I'm Student at Bannari Amman Institute of Technology</li>
+  <li>🔭 I Aspire to be a Software Engineer to Front-end and Back-end Technologies</li>
+  <li>🌱 Exploring Web Technologies</li>
+  <li>📩 Reach me ameerkhan.ee20@bitsathy.ac.in</li>
+  <li>📩 Personal itisameerkhan@gmail.com</li>
+</ul>
 
 
 ## 🌐 Socials:
