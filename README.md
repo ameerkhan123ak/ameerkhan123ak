@@ -1,8 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyy123&label=Profile%20views&color=0e75b6&style=flat" alt="amer" /> </p>
-
- 
 # 💫 About Me:
-🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>📩 Mail me      - ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal     - itisameerkhan@gmail.com <br>🥅 Goal       - Java Developer <br><br><br><br>
+🎓 Student<br>🏠 Tirunelveli<br>💻 Aspire to be a Software Engineer <br>📩 Mail me @ ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal @ itisameerkhan@gmail.com <br><br><br><br><br>
 
 
 ## 🌐 Socials:
