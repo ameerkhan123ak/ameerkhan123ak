@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400" style="float:right"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyy123&label=Profile%20views&color=0e75b6&style=flat" alt="amer" /> </p>
 
  
 # 💫 About Me:
