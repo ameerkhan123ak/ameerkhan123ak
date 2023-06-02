@@ -1,4 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
  
 # 💫 About Me:
 🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>📩 Mail me      - ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal     - itisameerkhan@gmail.com <br>🥅 Goal       - Java Developer <br><br><br><br>
