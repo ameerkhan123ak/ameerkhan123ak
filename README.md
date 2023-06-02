@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+</p>
+
+
+
 # 💫 About Me:
 🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>📩 Mail me      - ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal     - itisameerkhan@gmail.com <br>🥅 Goal       - Java Developer <br><br><br><br>
 
