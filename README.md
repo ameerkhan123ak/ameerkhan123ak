@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>🛝Hobbies  - Playing Chess, Walking<br>🥅 Goal       - Java Developer <br><br><br><br>
+🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>📩 Mail me      - ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal     - itisameerkhan@gmail.com <br>🥅 Goal       - Java Developer <br><br><br><br>
 
 
 ## 🌐 Socials:
