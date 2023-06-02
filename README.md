@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=1A9B0B&background=23FF1800&width=500&lines=Electrical+and+Electronics+Engineering;Aspire+to+be+a+Software+Engineer;Self+Taught+Programmer;Front+End+Developer;Java+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=1A9B0B&background=23FF1800&center=true&vCenter=true&width=500&height=75&lines=Electrical+and+Electronics+Engineering;Aspire+to+be+a+Software+Engineer;Self+Taught+Programmer;Front+End+Developer;Java+Programmer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🎓 Status    -  Student<br>💻 Skills       -  C, C++, Java, MySQL, HTML, CSS<br>🏠 Place      -  Tirunelveli<br>✒️Interests - Web Development and Java<br>📩 Mail me      - ameerkhan.ee20@bitsathy.ac.in <br>📩 Personal     - itisameerkhan@gmail.com <br>🥅 Goal       - Java Developer <br><br><br><br>
