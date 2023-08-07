@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer khan B</h1>
-# 💫 About Me:
+💫 About Me:
 <ul>
   <li>🎓 I'm Student at Bannari Amman Institute of Technology</li>
   <li>⚡ Electrical and Electronics Engineering</li>
