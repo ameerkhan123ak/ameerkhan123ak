@@ -32,7 +32,7 @@
 
 ###
 ###
-<p align="left">About Me:</p><br>
+<p align="left">About Me:</p>
 <p>🎓 I'm a student at Bannari Amman Institute of Technology</p>
 <p>⚡ Studying Electrical and Electronics Engineering</p>
 <p>🔭 My aspiration is to become a Software Engineer in Front-end and Back-end Technologies</p>
