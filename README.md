@@ -32,8 +32,14 @@
 
 ###
 
-<p align="left">About Me:<br><br>🎓 I'm a student at Bannari Amman Institute of Technology<br>⚡ Studying Electrical and Electronics Engineering<br>🔭 My aspiration is to become a Software Engineer in Front-end and Back-end Technologies<br>🌱 Currently exploring Web Technologies<br>📩 You can reach me at itisameerkhan@gmail.com</p>
-
+<p align="left">About Me:</p><br><br>
+<ul>
+  <p>🎓 I'm a student at Bannari Amman Institute of Technology</p>
+  <p>⚡ Studying Electrical and Electronics Engineering</p>
+  <p>🔭 My aspiration is to become a Software Engineer in Front-end and Back-end Technologies</p>
+  <p>🌱 Currently exploring Web Technologies</p>
+  <p>📩 You can reach me at itisameerkhan@gmail.com</p>
+</ul>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
