@@ -37,7 +37,7 @@
 <p>⚡ Studying Electrical and Electronics Engineering</p>
 <p>🔭 My aspiration is to become a Software Engineer in Front-end and Back-end Technologies</p>
 <p>🌱 Currently exploring Web Technologies</p>
-<p>📩 You can reach me at itisameerkhan@gmail.com</p>
+<p>📩 You can reach me at <a href="">itisameerkhan@gmail.com</a></p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
