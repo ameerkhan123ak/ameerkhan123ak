@@ -18,7 +18,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma)](https://skillicons.dev)
 
 ###
 
