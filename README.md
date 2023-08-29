@@ -18,9 +18,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ameerkhan123ak.ameerkhan123ak&"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma)](https://skillicons.dev)
 
 ###
 
