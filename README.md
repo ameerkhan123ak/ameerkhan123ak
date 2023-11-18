@@ -17,7 +17,7 @@
 </div>
 
 ###
-![](https://komarev.com/ghpvc/?username=ameerkhan123ak&base=1000)
+![](https://komarev.com/ghpvc/?username=itisameerkhan&base=1000)
 ![](https://komarev.com/ghpvc/?username=ameerkhan123ak&color=green)
 
 <h1 align="center">Hi,👋 I'm Ameer Khan B</h1>
